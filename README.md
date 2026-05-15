@@ -40,5 +40,6 @@ WhatsApp Web QRCode
 #4 - Clonar projeto
 
 ```bash
-git clone https://github.com/Edy404-code/Miray.git
-cd Miray
+git clone https://github.com/Edy404-code/BOTS.git
+cd BOTS
+
